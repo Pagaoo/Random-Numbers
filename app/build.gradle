@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id 'kotlin-android-extensions' // Lembrar de adicionar esse plugin para reconhecer as chamadas de elementos
 }
 
 android {
